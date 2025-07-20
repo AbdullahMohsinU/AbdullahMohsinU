@@ -1,23 +1,23 @@
 <h1 align="center">👋 Welcome to Abdullah Mohsin's GitHub</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Student+%F0%9F%93%9A+%7C+5th+Semester+B.Tech+CS;Passionate+Software+Developer;Building+Monitoring+Software;AI+%26+Automation+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF88¢er=true&vCenter=true&width=500&lines=Student+%F0%9F%93%9A+%7C+5th+Semester+B.Tech+CS;Passionate+Software+Developer;Building+Monitoring+Software;AI+%26+Automation+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/5Z5gX3S.gif" alt="Coding GIF" width="300" />
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding GIF" width="300" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/8y5K7aQ.png" alt="Supreme Logo" width="150" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Supreme_Logo.svg/1200px-Supreme_Logo.svg.png" alt="Supreme Logo" width="150" />
 </p>
 
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-  I'm a 5th-semester B.Tech Computer Science student with a passion for creating impactful software solutions. I love diving into <b>web & mobile app development</b>, exploring <b>AI & automation</b>, and contributing to <b>open-source projects</b>. My current mission? Building cutting-edge monitoring software that makes a difference! 💻
+  I'm a 5th-semester B.Tech Computer Science student with a passion for crafting impactful software solutions. I thrive on <b>web & mobile app development</b>, exploring <b>AI & automation</b>, and contributing to <b>open-source projects</b>. Currently, I’m working on cutting-edge monitoring software that makes a difference! 💻
 </p>
 
 ---
@@ -58,12 +58,12 @@
 ---
 
 ### ⚡ Fun Fact
-I’m obsessed with creating tools that help people! I also chase the thrill of that **“It works!”** moment after hours of debugging. 😎
+I’m obsessed with creating tools that help people! I also live for that **“It works!”** moment after hours of debugging. 😎
 
 ---
 
 <p align="center">
-  <img src="https://source.unsplash.com/random/800x400/?coding" alt="Random Coding Image" width="500" />
+  <img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Coding Image" width="500" />
 </p>
 
 <p align="center">
