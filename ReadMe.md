@@ -14,11 +14,6 @@ A professional, animated developer portfolio built with React and Tailwind CSS. 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahMohsinU&layout=compact&theme=transparent&hide_border=true&bg_color=1e293b&text_color=e0f2fe)
 
-### GitHub Contributions Snake
-
-![GitHub Snake](https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyenZtcGVsM2J6ZWxyMW11MTBkYWViZ21yb2N5azZ4dXc0ZjUwZ3pxeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vvW9GuxsGM4lcjqypz/source.gif)
-
----
 
 ## Technologies Used
 
