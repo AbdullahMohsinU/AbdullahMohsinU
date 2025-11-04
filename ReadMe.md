@@ -3,7 +3,7 @@
 
 A professional, animated developer portfolio built with React and Tailwind CSS. This portfolio showcases my experience, ongoing projects, GitHub activity, tools I use, and the technologies I’m currently learning. The site is mobile-responsive and interactive, designed for recruiters, collaborators, and open-source communities.
 
-![Tech Animation](https://i.graphicmama.com/uploads/2023/3/6414793b7befa-602a4f0ed6583-Flying%20Robot%20Cartoon%20Animated%20GIFs.gif)
+
 
 ---
 ### GitHub Stats
