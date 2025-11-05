@@ -3,13 +3,13 @@
 [![Live Demo](https://img.shields.io/badge/Live_Demo-0d9488?style=for-the-badge&logo=vercel&logoColor=white)](https://abdullahmohsinu.github.io/portfolio/)  
 [![License: MIT](https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge)](LICENSE)  
 
-> **React + Tailwind CSS** • Mobile-responsive • Animated • Recruiter-friendly  
+> **GITHUB***
 
 ---
 
 ## Overview  
 
-A modern, animated portfolio showcasing my **software engineering journey**, **skills**, **projects**, **GitHub activity**, and **learning progress**. Built to impress recruiters, collaborators, and the tech community.
+My name is AbdullahMohsin,Here I will give you reposi..................
 
 ---
 
