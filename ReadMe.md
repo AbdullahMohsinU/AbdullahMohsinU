@@ -3,25 +3,6 @@
 [![Live Demo](https://img.shields.io/badge/Live_Demo-0d9488?style=for-the-badge&logo=vercel&logoColor=white)](https://abdullahmohsinu.github.io/portfolio/)  
 [![License: MIT](https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge)](LICENSE)  
 
-> **GITHUB***
-
----
-
-## Overview  
-
-My name is AbdullahMohsin,Here I will give you reposi..................
-
----
-
-## Live GitHub Stats  
-
-### General Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdullahMohsinU&show_icons=true&theme=transparent&hide_border=true&bg_color=0f172a&text_color=d1fae5&icon_color=0d9488)
-
-### Top Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahMohsinU&layout=compact&theme=transparent&hide_border=true&bg_color=0f172a&text_color=d1fae5)
-
----
 
 ## Tech Stack  
 
