@@ -19,17 +19,6 @@
 | **Mobile**          | `Flutter` `Android Studio` |
 | **Other**           | `Firebase` `Bash` `Photoshop` `Hadoop` |
 
----
-
-## Featured Projects  
-
-| Project | Description | Tech | Live / Repo |
-|---------|-------------|------|-------------|
-| **Advanced Monitoring Dashboard** | Real-time analytics with WebSocket streaming | React, Tailwind, Chart.js | [Demo](https://monitor.abdullahmohsin.dev) |
-| **Open-Source CLI Utilities** | Automation scripts for developers | Python, Click | [Repo](https://github.com/AbdullahMohsinU/cli-tools) |
-| **Smart Community App** | Cross-platform tool for local groups | Flutter, Firebase | [Repo](https://github.com/AbdullahMohsinU/community-app) |
-
----
 
 ## Learning Progress  
 
