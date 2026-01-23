@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="ac.png" alt="Abdullah Mohsin" width="200" height="200" style="border:3px solid #000; border-radius:50%;">
+  <img src="ac.png" alt="Abdullah Mohsin" width="400" height="400" style="border:3px solid #000; border-radius:50%;">
 </p>
 
 ---
@@ -14,7 +14,7 @@ Research is a crucial part of academics — exploring gaps helps in developing n
 ## GitHub Repository
 I have completed a number of projects over the past years.  
 You can explore all my projects and give feedback here:  
-[Abdullah Mohsin GitHub](https://github.com/YourGitHubUsername)
+[Abdullah Mohsin GitHub](https://github.com/AbdullahMohsinU?tab=repositories)
 
 ---
 
