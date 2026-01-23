@@ -1,40 +1,57 @@
 
-  <img src="ac.png">
+<p align="center">
+  <img src="ac.png" alt="Abdullah Mohsin" width="200" height="200" style="border:3px solid #000; border-radius:50%;">
+</p>
 
-#  About Me:
-I am studying Software Engineering Technology from UIT University.Research is  very essential part in academics and  if  we wanted to explore anything.We have look deeply and figure out the gap.This gap helps in finding and developing new things or improving it better that`s why I love to do research.
- # GITHUB_REPO:
-In  past years,I have  done number of projects and get experience.These projects are available in github repository,you can check it out and give me remarks.
+---
 
-# SKILLS:
-# 1. HARD SKILL:
-# <div> 1.Programming</div>
-<div>a.C++</div>
-<div>b.Python</div>
-<div>c.Java</div>
+## About Me
+I am a **Software Engineering Technology** student at UIT University.  
+Research is a crucial part of academics — exploring gaps helps in developing new ideas or improving existing ones. This is why I enjoy research and innovation.
 
-# <div> 2.Software Testing</div>
-<div>a.Google Test</div>
-<div>b.Cucumber</div>
-<div>c.Sonar Cube</div>
+---
 
-# <div> 3.Animation and 3D MODELLING</div>
-Blender-3D 
-# 2. SOFT SKILL:
-<div>a.Logic Building</div>
-<div>b.Project Manager</div>
+## GitHub Repository
+I have completed a number of projects over the past years.  
+You can explore all my projects and give feedback here:  
+[Abdullah Mohsin GitHub](https://github.com/YourGitHubUsername)
 
-# Phone-no:
-+923363736231
-# Linked-In:
-https://www.linkedin.com/in/mr-abdullah-mohsin-5086a730b/
+---
 
+## Skills
 
-# WHY?
-I will solve problem and give you project on time.Explaination  and proper documentation will be easily provided.If anything gone wrong,I will fix it.
-# FINE  !!!!
-# AVAILABLE !!!
-# NOW !!!!!!!!!!!!!!!!!
+### Hard Skills
+**Programming:**  
+- C++  
+- Python  
+- Java  
 
+**Software Testing:**  
+- Google Test  
+- Cucumber  
+- SonarQube  
 
+**Animation & 3D Modeling:**  
+- Blender 3D  
 
+### Soft Skills
+- Logical Thinking & Problem Solving  
+- Project Management  
+
+---
+
+## Contact
+
+**Phone:** +92 336 3736231  
+**LinkedIn:** [Abdullah Mohsin](https://www.linkedin.com/in/mr-abdullah-mohsin-5086a730b/)  
+
+---
+
+## Why Work With Me
+I deliver projects on time with **proper explanation and documentation**.  
+If anything goes wrong, I will **fix it promptly**. I ensure **quality and professionalism** in all work.
+
+---
+
+### Availability
+✅ I am **available now** for projects and collaboration.
