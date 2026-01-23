@@ -1,8 +1,7 @@
-<p align="center">
-  <img src="ac.png" alt="Abdullah Mohsin" width="600" style="border:3px solid #000; border-radius:10px;">
-</p>
 
-# About Me:
+  <img src="ac.png">
+
+#  About Me:
 I am studying Software Engineering Technology from UIT University.Research is  very essential part in academics and  if  we wanted to explore anything.We have look deeply and figure out the gap.This gap helps in finding and developing new things or improving it better that`s why I love to do research.
  # GITHUB_REPO:
 In  past years,I have  done number of projects and get experience.These projects are available in github repository,you can check it out and give me remarks.
