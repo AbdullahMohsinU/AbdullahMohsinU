@@ -1,9 +1,4 @@
 
-<p align="center">
-  <img src="ac.png" alt="Abdullah Mohsin" width="400" height="400" style="border:3px solid #000; border-radius:50%;">
-</p>
-
----
 
 ## About Me
 I am a **Software Engineering Technology** student at UIT University.  
