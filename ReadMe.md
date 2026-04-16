@@ -49,4 +49,4 @@ If anything goes wrong, I will **fix it promptly**. I ensure **quality and profe
 ---
 
 ### Availability
-✅ I am **available now** for projects and collaboration.
+ I am **available now** for projects and collaboration.
