@@ -37,7 +37,7 @@ You can explore all my projects and give feedback here:
 
 ## Contact
 
-**Phone:** +92 336 3736231  
+**Phone:** +92 3327978394
 **LinkedIn:** [Abdullah Mohsin](https://www.linkedin.com/in/mr-abdullah-mohsin-5086a730b/)  
 
 ---
