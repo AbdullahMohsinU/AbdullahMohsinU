@@ -107,4 +107,4 @@ I am also working on a **DVT AI medical research project**. If you are passionat
 
 ## Sponsorships & Collaborations
 
-![Abdullah Mohsin Resume](./AbdullahMohsin.jpg)
+![Abdullah Mohsin Resume](./AbdullahMohsin.png)
