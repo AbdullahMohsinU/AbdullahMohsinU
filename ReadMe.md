@@ -5,7 +5,7 @@ https://github.com/user-attachments/assets/577ec42f-f42c-4910-968b-997652200c68
 
 <div align="center">
 
-<a href="https://discord.gg/pA6pMxCFK">
+<a href="https://discord.gg/YG2WzNutc">
   <img src="https://img.shields.io/badge/Join%20Discord%20Now-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord">
 </a>
 
