@@ -1,8 +1,7 @@
 # Abdullah Mohsin(B.Tech-Software)
 
 
-https://github.com/user-attachments/assets/577ec42f-f42c-4910-968b-997652200c68
-
+https://github.com/user-attachments/assets/0bdf0ff6-4e18-4547-b988-f73b711b36e5
 <div align="center">
 
 <a href="https://discord.gg/YG2WzNutc">
