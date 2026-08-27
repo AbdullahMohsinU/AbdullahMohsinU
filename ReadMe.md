@@ -1,12 +1,10 @@
 # Abdullah Mohsin(B.Tech-Software)
 
 
-#  🎥 Demo Video — Click to Check It Out! 👇✨
+# 🚀 ABOUT ME:
 
-# 🚀 Watch the demo and get to know me! 🚀
+https://github.com/user-attachments/assets/549ae8ec-5269-44ad-b74d-a3ff49ac8aaf
 
-# ▶️ Click below to check it out! 🎬🔥
-https://github.com/user-attachments/assets/35981752-f637-4717-9107-1f46b3221b7d
 <div align="center">
 
 <a href="https://discord.gg/YG2WzNutc">
