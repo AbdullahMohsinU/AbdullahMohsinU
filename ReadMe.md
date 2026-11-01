@@ -2,7 +2,7 @@
 
 
 # ABOUT Me: 
-https://abdullahmohsinu.github.io/Mr.AbdullahMohsin--ABOUT-Me-/?utm_source=chatgpt.com
+https://abdullahmohsinu.github.io/Mr.AbdullahMohsin--ABOUT-Me
 
 https://github.com/user-attachments/assets/549ae8ec-5269-44ad-b74d-a3ff49ac8aaf
 
