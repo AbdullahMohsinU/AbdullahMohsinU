@@ -85,14 +85,7 @@ I am also working on a **DVT AI medical research project**. If you are passionat
 **Email**
 
 - `abdullahmohsinune@gmail.com`
-- `waterfishy63@gmail.com`
-
-**Phone**
-
-- `+92 332 7978394`
-- `+92 337 2163089`
-
----
+  
 
 <div align="center">
 
